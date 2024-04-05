@@ -1,0 +1,37 @@
+.bg-color{
+    -fx-background-color: #dbdbdb;
+}
+.casedb{
+    -fx-font-size: 24px ;
+    -fx-text-fill: #000;
+    -fx-cursor: hand;
+    -fx-background-color: #adb4bf;}
+#board TextField{
+-fx-background-color: red;
+}
+    .caselb{
+        -fx-font-size: 24px ;
+        -fx-text-fill: #000;
+        -fx-cursor: hand;
+        -fx-background-color: #f5f5f5;
+        }
+
+        .reset{
+                -fx-font-family: 40px ;
+                -fx-text-fill: #fff;
+                -fx-border-raduis: 15%;
+                -fx-background-color: #1b252b;}
+
+ .gagnant{
+                 -fx-font-size: 11px ;
+                 -fx-text-fill: #fff    ;
+                 -fx-background-color: #fff;}
+ .titre{
+                  -fx-font-family: 15px ;
+                  -fx-text-fill: #1b252b;
+                  }
+  .labels{
+                 -fx-font-size: 14px ;
+                 -fx-text-fill: #1b252b;
+                 -fx-border-raduis: 20%;
+                 -fx-background-color: #dbdbdb;}
